@@ -17,7 +17,7 @@ Credit to: Aaron Xie / TTPlanet
 
 
 # Installation
-Git clone this repo to your comfyui/customnodes folder or install it via the manger (Coming soon).  
+Install via ComfyUI Manager ( search for dicksondickson ) or git clone this repo to your comfyui/customnodes folder.
   
 
 
