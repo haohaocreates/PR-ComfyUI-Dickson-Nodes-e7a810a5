@@ -6,7 +6,6 @@ This is a set of custom nodes that I've either written myself or adapted from ot
 # Nodes
 
 **Color match node**  
-Wavelet or adain option.  
 Forked from StableSR as it seems that project is not maintained.  
 Credit to: WSJUSA, StableSR, LIightChaser and Jianyi Wang  
   
