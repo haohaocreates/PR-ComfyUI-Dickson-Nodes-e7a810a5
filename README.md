@@ -11,6 +11,7 @@ Credit to: WSJUSA, StableSR, LIightChaser and Jianyi Wang
   
 **TTPlanet controlnet tile preprocessor node**  
 Forked from [https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic](https://huggingface.co/TTPlanet/TTPLanet_SDXL_Controlnet_Tile_Realistic) for my own convienence.
+TTPlanet's Controlnet model is meant to be used with this node which you can download on his Huggingface repo.
 Credit to: Aaron Xie / TTPlanet  
   
 
